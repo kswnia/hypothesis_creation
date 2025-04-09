@@ -7,10 +7,10 @@
 
 **Reasoning on top of content.**  
 We don’t just output facts—we structure the logic behind them.
-![Mental Model](assets/mental-model.png)
+## ![Mental Model](hypothesis.png)
 
 
-The system:
+## The system:
 - Maps logical steps (like decision trees or first-principles breakdowns).
 - Applies domain-specific knowledge.
 - Outputs structured reasoning paths.
