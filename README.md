@@ -16,7 +16,7 @@ We don’t just output facts—we structure the logic behind them.
 - Outputs structured reasoning paths.
 
 ## How to use it:
-Example Prompt Use
+We have prepared model,after youre sharing your observation thats it.
 
     Input:
     Some patients with rheumatoid arthritis show complete remission despite high autoantibody titers. Why?
@@ -41,6 +41,7 @@ Example Prompt Use
 
 
 
+## [example of outputs ](output.md)
 
 ##  Why in this way?
 
