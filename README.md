@@ -56,7 +56,7 @@ We wanted to make the *thinking* visible:
 
 ## 💬 Try It / Curious?
 
-If you're from **BeardAI** or anyone else interested:
+If you're from **BeeARD** or anyone else interested:
 **DM me**
   [![DM me on LinkedIn](https://img.shields.io/badge/DM%20me%20on-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kseniya-hudacheuskaya-0037b8264/)   — happy to share specific prompts, logic maps, or direction of interest.
 
